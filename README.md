@@ -1,4 +1,4 @@
-# Project_4---Predicitng_West_Nile_Virus
+# Project_4-Predicitng_West_Nile_Virus
 
 This is my first week of work at the Disease And Treatment Agency, division of Societal Cures In Epidemiology and New Creative Engineering (DATA-SCIENCE). 
 
